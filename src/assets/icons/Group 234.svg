@@ -1,0 +1,20 @@
+<svg width="29" height="30" viewBox="0 0 29 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 234">
+<g id="Group 233">
+<rect id="Rectangle 86" x="26.1776" y="3.49573" width="23.2273" height="23.2273" transform="rotate(90 26.1776 3.49573)" stroke="white" stroke-width="1.5"/>
+<line id="Line 3" x1="3.09423" y1="2.57904" x2="27.0942" y2="26.579" stroke="white" stroke-width="1.5"/>
+<line id="Line 5" x1="2.73059" y1="7.30634" x2="22.3669" y2="26.9427" stroke="white" stroke-width="1.5"/>
+<path id="Line 14" d="M24.9712 3.02289C24.6784 2.73 24.2035 2.73 23.9106 3.02289C23.6177 3.31579 23.6177 3.79066 23.9106 4.08355L24.9712 3.02289ZM23.9106 4.08355L25.9106 6.08355L26.9712 5.02289L24.9712 3.02289L23.9106 4.08355Z" fill="white"/>
+<line id="Line 7" x1="2.73059" y1="12.3972" x2="17.276" y2="26.9426" stroke="white" stroke-width="1.5"/>
+<path id="Line 15" d="M19.7122 2.96967C19.4193 2.67678 18.9444 2.67678 18.6515 2.96967C18.3586 3.26256 18.3586 3.73744 18.6515 4.03033L19.7122 2.96967ZM18.6515 4.03033L25.4697 10.8485L26.5303 9.78785L19.7122 2.96967L18.6515 4.03033Z" fill="white"/>
+<line id="Line 9" x1="2.73059" y1="17.4881" x2="12.1851" y2="26.9426" stroke="white" stroke-width="1.5"/>
+<path id="Line 16" d="M14.1818 3.5L26.1094 15.4276" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<line id="Line 11" x1="2.73059" y1="22.579" x2="7.09422" y2="26.9427" stroke="white" stroke-width="1.5"/>
+<path id="Line 17" d="M8.75256 3.5L26.1801 20.9275" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+</g>
+<ellipse id="Ellipse 55" cx="26" cy="3" rx="3" ry="3" transform="rotate(90 26 3)" fill="white"/>
+<ellipse id="Ellipse 56" cx="3" cy="3" rx="3" ry="3" transform="rotate(90 3 3)" fill="white"/>
+<ellipse id="Ellipse 57" cx="2.99997" cy="27" rx="3" ry="3" transform="rotate(90 2.99997 27)" fill="white"/>
+<ellipse id="Ellipse 58" cx="26" cy="27" rx="3" ry="3" transform="rotate(90 26 27)" fill="white"/>
+</g>
+</svg>
